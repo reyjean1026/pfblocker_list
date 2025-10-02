@@ -717,3 +717,9 @@ graph.facebook.com
 www.facebook.com
 scontent.xx.fbcdn.net
 ep2.facebook.com
+edge-mqtt.facebook.com
+web.facebook.com
+graph-fallback.facebook.com
+edge-mqtt-fallback.facebook.com
+mqtt.fallback.c10r.facebook.com
+star.fallback.c10r.facebook.com
